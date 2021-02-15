@@ -1,0 +1,2 @@
+# Python_trainings
+Exercises
